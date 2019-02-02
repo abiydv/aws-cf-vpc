@@ -1,4 +1,9 @@
 # AWS VPC
+
+![cli](https://github.com/abiydv/ref-docs/blob/master/images/logos/aws-cli_small.png)
+![cf](https://github.com/abiydv/ref-docs/blob/master/images/logos/aws-cf_small.png)
+![vpc](https://github.com/abiydv/ref-docs/blob/master/images/logos/aws-vpc_small.png)
+
 Use this template to create a VPC with 2 public and 2 private subnets. 
 
 Specify VPC Cidr and Subnet Cidr bit to get desired number of IPs distributed in the 4 subnets. 
@@ -35,6 +40,7 @@ aws cloudformation create-stack --stack-name vpc-stack --template-body file://vp
 ```
 Alternatively, copy the template and create the stack from Cloudformation console.
 
+## Contact
 Drop me a note or open an issue if something doesn't work out.
 
 Cheers! :thumbsup:
