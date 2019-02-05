@@ -1,4 +1,5 @@
 # AWS VPC
+[![CodeFactor](https://www.codefactor.io/repository/github/abiydv/aws-cf-vpc/badge)](https://www.codefactor.io/repository/github/abiydv/aws-cf-vpc)
 
 ![cli](https://github.com/abiydv/ref-docs/blob/master/images/logos/aws-cli_small.png)
 ![cf](https://github.com/abiydv/ref-docs/blob/master/images/logos/aws-cf_small.png)
